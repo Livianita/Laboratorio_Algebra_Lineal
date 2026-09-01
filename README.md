@@ -1,0 +1,1 @@
+## 5.1 Varianza retenida vs Numero de componentes (k)
